@@ -1,5 +1,3 @@
-![wwwMinipedia](https://minime89-maker.github.io/wwwMinipedia/images/wwwMinipedia.png)
-
 # wwwMinipedia
 
 ## World Wide Web with Wikipedia API
