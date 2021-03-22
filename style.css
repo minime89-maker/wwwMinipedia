@@ -37,6 +37,11 @@ main {
   letter-spacing: 3px;
   line-height: 17px;
   font-size: 20px;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: #000;
 }
 .btn-logo {
   background-color: #aaa;
@@ -122,7 +127,9 @@ input::placeholder {
   .search-form {
     width: 100%;
   }
-
+.result-title{
+  line-height: 30px;
+}
   .search-input {
     width: 100%;
     margin: 0 auto;
@@ -136,5 +143,7 @@ input::placeholder {
   .result-snippet,
   .time-modified {
     padding: 0px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
   }
 }
