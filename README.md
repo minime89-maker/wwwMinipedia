@@ -20,7 +20,8 @@ I’m a not yet a Web Developer 👨‍💻 but I am trying since 2021 🚀
 <br/>  
 
 
-### miniPedia  
+### miniPedia Demo
+<a href="https://www-minipedia.vercel.app/" target="_blank">
 
 </td><td valign="top" width="50%">
 
