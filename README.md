@@ -1,4 +1,4 @@
-## mini Paint web app 🖌️  
+## mini Wikipedia web app 📚 
   
 
 <a href="https://github.com/minime89-maker" target="_blank">
@@ -20,7 +20,7 @@ I’m a not yet a Web Developer 👨‍💻 but I am trying since 2021 🚀
 <br/>  
 
 
-### miniPaint  
+### miniPedia  
 
 </td><td valign="top" width="50%">
 
