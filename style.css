@@ -104,6 +104,8 @@ input::placeholder {
   font-size: 22px;
   color: #444;
   padding-left: 80px;
+  letter-spacing: 0.5px;
+    line-height: 20px;
 }
 
 .result-link {
@@ -112,6 +114,8 @@ input::placeholder {
   display: block;
   margin-bottom: 15px;
   padding-left: 80px;
+  letter-spacing: 0.5px;
+  line-height: 20px;
 }
 
 .time-modified {
@@ -120,10 +124,15 @@ input::placeholder {
   width: 100%;
   padding-left: 80px;
   font-size: 14px;
+  letter-spacing: 0.5px;
+  line-height: 20px;
 }
 
 /* Media Queries */
 @media (max-width: 550px) {
+  main{
+    width: 95vw;
+  }
   .search-form {
     width: 100%;
   }
